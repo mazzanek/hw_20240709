@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add restaurant</title>
+</head>
+<body>
+
+
+{% include 'header.html' %}
+
+{% block content %}
+{% endblock %}
+
+<H2> Add new restaurant </H2>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Submit</button>
+</form>
+
+{% include 'footer.html' %}
+
+</body>
+</html>
