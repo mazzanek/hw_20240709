@@ -28,3 +28,12 @@ def add_rest(request):
   else:
     form = AddForm()
   return render(request, 'add_rest.html', {'form': form})
+
+
+def details(request, id):
+  all_rest = add_view.objects.get(id=id)
+  template = loader.get_template('details.html')
+  context = {
+    'all_rest': all_rest,
+  }
+  return HttpResponse(template.render(context, request))

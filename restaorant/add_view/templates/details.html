@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>{{ all_rest.rest_name }}</h1>
+
+<p>Specialization: {{ all_rest.rest_spec }}</p>
+<p>Address: {{ all_rest.rest_address }}</p>
+<p>Website: {{ all_rest.rest_website }}</p>
+<p>Phone: {{ all_rest.rest_phone }}</p>
+
+<p>Back to <a href = "{% url 'home' %}">Home</a></p>
+
+</body>
+</html>
