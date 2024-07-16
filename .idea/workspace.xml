@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfedaf17-c403-4533-ab12-23162d661cc9" name="Changes" comment="add form functional">
+    <list default="true" id="cfedaf17-c403-4533-ab12-23162d661cc9" name="Changes" comment="hw done - nefunguje mi details.html">
       <change afterPath="$PROJECT_DIR$/restaorant/add_view/templates/details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/restaorant/add_view/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaorant/add_view/templates/home.html" afterDir="false" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721132703436</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hw done - nefunguje mi details.html">
+      <option name="closed" value="true" />
+      <created>1721135775554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721135775554</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +124,7 @@
     <MESSAGE value="start1" />
     <MESSAGE value="frame and model works" />
     <MESSAGE value="add form functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="add form functional" />
+    <MESSAGE value="hw done - nefunguje mi details.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw done - nefunguje mi details.html" />
   </component>
 </project>
