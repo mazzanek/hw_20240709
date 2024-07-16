@@ -2,8 +2,8 @@ from django.http import HttpResponse
 from django.template import loader
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
-from .models import add_view
-from .forms import AddForm
+from restaorant.add_view.models import add_view
+from restaorant.add_view.forms import AddForm
 
 def home(request):
   all_rest = add_view.objects.all().values()
