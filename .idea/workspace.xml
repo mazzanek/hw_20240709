@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfedaf17-c403-4533-ab12-23162d661cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hw_20240709.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cfedaf17-c403-4533-ab12-23162d661cc9" name="Changes" comment="start1">
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/templates/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/add_view/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaorant/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaorant/restaorant/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaorant/restaorant/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaorant/restaorant/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaorant/restaorant/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,13 +44,17 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2jKF6p0ctISYl7FYS5TKehM4yMv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -48,6 +75,29 @@
       <option name="presentableId" value="Default" />
       <updated>1721127689389</updated>
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1721128232725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721128232725</updated>
+    </task>
+    <task id="LOCAL-00002" summary="start1">
+      <option name="closed" value="true" />
+      <created>1721128256845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721128256845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="start" />
+    <MESSAGE value="start1" />
+    <option name="LAST_COMMIT_MESSAGE" value="start1" />
   </component>
 </project>
